@@ -1,4 +1,4 @@
-# Signal-Processing-Laboratory
+# Signal Processing Laboratory
 Lab Assignments of the Digital Signal Processing Laboratory course, NTHU EE 366200
 
 ## Unit 1: Biomedical Application
