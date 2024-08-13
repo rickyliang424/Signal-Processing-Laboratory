@@ -10,7 +10,7 @@ Lab 4: Heart Rate Estimation
 ## Unit 2: Visual Signals
 Lab 5: Pixel Array Manipulation\
 Lab 6: Image Filtering and Hybrid Images\
-Lab 7: Image Filtering and Corner Detection/
+Lab 7: Image Filtering and Corner Detection\
 Lab 8: Seam Carving for Content-aware Image Resizing
 
 ## Unit 3: Audio and Speech
